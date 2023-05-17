@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @styphoiz
 - 👀 I’m interested in working with different technologies.
-- 🌱 I’m currently learning Azure AZ300.
+- 🌱 I’m currently learning Azure AZ104.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me styphoiz@gmail.com
 
