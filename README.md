@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohammed
 - 👀 I’m interested in working with different technologies.
-- 🌱 I’m currently learning Azure AZ104.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me styphoiz@gmail.com
+- 🌱 I’m currently learning how
+to hack the world.
+- 📫 styphoiz@gmail.com
 
 <!---
 styphoiz/styphoiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
